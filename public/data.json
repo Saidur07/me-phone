@@ -1,0 +1,85 @@
+[
+    {
+      "id": 1,
+      "price": 799,
+      "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-01.jpg",
+      "name": "Iphone 13"
+    },
+    
+    {
+      "id": 2,
+      "price": 699,
+      "img": "https://cdn.shopify.com/s/files/1/1706/9177/products/iphone-13-pink-Custom-Mac-BD_76afab30-586c-4ca2-aaf5-1c3101547ae0.jpg?v=1634647836",
+      "name": "Iphone 13 Mini"
+    },
+    
+    {
+      "id": 3,
+      "price": 999,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-silver-select?wid=940&hei=1112&fmt=png-alpha&.v=1645552346280",
+      "name": "Iphone 13 Pro"
+    },
+    
+    {
+      "id": 4,
+      "price": 1099,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg",
+      "name": "iPhone 13 Pro Max"
+    },
+    {
+      "id": 5,
+      "price": 799,
+      "img": "https://static.toiimg.com/thumb/resizemode-4,msid-78671027,imgsize-200,width-1200/78671027.jpg",
+      "name": "Iphone 12"
+    },
+    
+    {
+      "id": 6,
+      "price": 699,
+      "img": "https://www.91-img.com/gallery_images_uploads/0/2/029bd1b178da1d1dfb6959c8f4df535d8ec1e283.jpg?tr=h-550,w-0,c-at_max",
+      "name": "Iphone 12 Mini"
+    },
+    
+    {
+      "id": 7,
+      "price": 999,
+      "img": "https://www.mytrendyphone.eu/images/iPhone-12-Pro-128GB-Pacific-Blue-0194252038710-21102020-01-p.jpg",
+      "name": "Iphone 12 Pro"
+    },
+    
+    {
+      "id": 8,
+      "price": 1099,
+      "img": "https://static-01.daraz.com.bd/p/bd253f5e6d50cf2d18a60b26a2c2e8ed.jpg",
+      "name": "iPhone 12 Pro Max"
+    },
+    
+    {
+      "id": 9,
+      "price": 799,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-green-select-2019?wid=834&hei=1000&fmt=jpeg&qlt=95&.v=1566956144838",
+      "name": "Iphone 11"
+    },
+    
+    {
+      "id": 10,
+      "price": 699,
+      "img": "https://www.91-img.com/gallery_images_uploads/1/5/1583da45d41ce8e6eaa090f0333f782bc5a6e2fd.jpg?tr=h-550,w-0,c-at_max",
+      "name": "Iphone 11 Mini"
+    },
+    
+    {
+      "id": 11,
+      "price": 999,
+      "img": "https://images.firstpost.com/fpimages/1200x800/fixed/jpg/2019/10/iPhone-11-Pro-Max-720-4.jpg",
+      "name": "Iphone 11 Pro"
+    },
+    
+    {
+      "id": 12,
+      "price": 1099,
+      "img": "https://www.gizmochina.com/wp-content/uploads/2019/09/Apple-iPhone-11-Pro-Max-1.jpg",
+      "name": "iPhone 11 Pro Max"
+    }
+    
+  ]
