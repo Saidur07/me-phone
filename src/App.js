@@ -10,7 +10,7 @@ function App() {
     <div>
       <Header></Header>
       <Shop></Shop>
-      <Qna></Qna>
+      <Qna> </Qna>
       <Footer></Footer>
     </div>
   );
