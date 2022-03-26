@@ -8,10 +8,10 @@ import Footer from "./Components/Footer/Footer";
 function App() {
   return (
     <div>
-      <Header></Header>
-      <Shop></Shop>
+      <Header> </Header>
+      <Shop> </Shop>
       <Qna> </Qna>
-      <Footer></Footer>
+      <Footer> </Footer>
     </div>
   );
 }
